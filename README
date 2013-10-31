@@ -1,0 +1,16 @@
+VIM-PLUGINS
+===========
+
+These are a collection of useful vim plugins I have created.
+Currently:
+html tag completion: Adds end tags for tags you write
+<a href="link"
+Then you type '>'
+You have
+<a href="link"></a>
+
+list functions: Lists all the functions in the file
+<C-f> lists the functions in files of type
+vim, java, processing, C, C++, and python so far. More can easily be added in the GetKeywords function
+Enter the function you want to jump to
+
